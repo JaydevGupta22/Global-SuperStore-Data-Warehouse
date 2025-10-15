@@ -139,9 +139,3 @@ jupyter notebook
 **Jaydev Gupta**
 🎓 B.Tech in Artificial Intelligence and Data Science
 💡 Machine Learning & Data Analytics Enthusiast
-
----
-
-If you want, I can also **provide a perfectly aligned table for the “Dimension Tables” and “Fact Table” in GitHub Markdown style** so it looks **exactly the same on the README preview** without any misalignment.
-
-Do you want me to do that?
