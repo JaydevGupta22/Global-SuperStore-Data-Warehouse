@@ -109,9 +109,9 @@ The Star Schema consists of one Fact Table and five Dimension Tables.
 1. **Clone this repository:**
 
 ```bash
-git clone https://github.com/JaydevGupta22/Global SuperStore Data Warehouse.git
-cd Global SuperStore Data Warehouse
-```
+git clone https://github.com/JaydevGupta22/Global-SuperStore-Data-Warehouse.git
+cd Global-SuperStore-Data-Warehouse
+
 
 2. **Install required dependencies:**
 
